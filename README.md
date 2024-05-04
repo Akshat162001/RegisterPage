@@ -1,5 +1,4 @@
 # Django Register and Login Page
-
 This Django project provides a simple web application with a register and login page functionality. Users can register for an account, log in, and log out. The project uses Django's built-in authentication system for user management.
 
 ## Installation
