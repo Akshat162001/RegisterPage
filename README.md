@@ -12,17 +12,14 @@ This Django project provides a simple web application with a register and login 
     ```bash
    python manage.py migrate
     ```
-4.Create a superuser:
-    ```bash
-    python manage.py createsuperuser
-    ```
-5. Start the development server:
+
+4. Start the development server:
 
     ```bash
     python manage.py runserver
     ```
 
-6. Open your web browser and visit `http://localhost:8000` to view the application
+5. Open your web browser and visit `http://localhost:8000` to view the application
 
 ## Contributing
 
