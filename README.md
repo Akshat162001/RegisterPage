@@ -12,14 +12,14 @@ This Django project provides a simple web application with a register and login 
 
 1. Clone the repository
   
-2.Navigate to the project directory
+2. Navigate to the project directory
  
-3.Run database migrations:
-Copy code
-python manage.py migrate
+3. Run database migrations:
+   Copy code
+   python manage.py migrate
 4.Create a superuser:
-Copy code
-python manage.py createsuperuser
+   Copy code
+   python manage.py createsuperuser
 
 5. Start the development server:
 
