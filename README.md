@@ -14,7 +14,7 @@ This Django project provides a simple web application with a register and login 
     ```
 4.Create a superuser:
     ```bash
-   python manage.py createsuperuser
+    python manage.py createsuperuser
     ```
 5. Start the development server:
 
