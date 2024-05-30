@@ -5,7 +5,6 @@ This Django project provides a simple web application with a register and login 
 1. Clone the repository
   
 2. Navigate to the project directory
- 
 3. Run database migrations:
     ```bash
    python manage.py migrate
